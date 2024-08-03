@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanushree Mondal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushreemondal1&label=Profile%20views&color=0e75b6&style=flat" alt="tanushreemondal1" /> </p>
 
-- 👩‍💻 I’m a Student of **Masters of Computer Applications**
+- 👩‍💻 I’m a Student of **Master of Computer Applications**
 
 - 🚀 Passionate about **coding and learning new technologies**
 
